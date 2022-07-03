@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @EnuncioBlanco
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Salesforce
 - 📫 How to reach me enuncio@gmail.com
 
 <!---
